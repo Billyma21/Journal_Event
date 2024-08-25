@@ -1,0 +1,12 @@
+<Show title="Concert Rasta" date="2023-09-04T20:00:00" price="50.0">
+  <texte>Concert Rasta</texte>
+  <dateEvent>2023-09-04T20:00:00</dateEvent>
+  <artists class="singleton-list">
+    <artist>
+      <pseudo>The King of Reggae</pseudo>
+      <firstname>Bob</firstname>
+      <lastname>Marley</lastname>
+      <style>REGGAE</style>
+    </artist>
+  </artists>
+</Show>
